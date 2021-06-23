@@ -2,6 +2,7 @@
   "name": "gh-pages-depl",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://brandonlau16.github.io/gh-pages-depl",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
